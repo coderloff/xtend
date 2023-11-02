@@ -1,2 +1,2 @@
 # xtend
-A C++ Header File for Competetive Programming
+A C++ Header File for Competitive Programming
